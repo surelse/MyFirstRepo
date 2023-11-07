@@ -1,1 +1,3 @@
-Hello World first project in GIT
+Hello World 
+
+Git Repository Hands on in Perscholas
